@@ -8,12 +8,15 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <div class="homeicon">
-        
-    </div>
     <div class="navigation">
+        <div class="homeicon">
+            <img src="images/cosmiclogo1.svg" alt="book store logo" width="100" height="100">
+        </div>
         <div id="menutoggle">
-            <div class="navmenu">
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                <img src="images/menu.svg" alt="hamburger" width="50" height="50">
+            </a>
+            <div id="navmenu">
                 <a href="#">Books</a>
                 <a href="#">Movies & TV Shows</a>
                 <a href="#">Music</a>
@@ -31,5 +34,15 @@
 
         </div>
     </footer>
+    <script>
+        function myFunction() {
+          var x = document.getElementById("navmenu");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          } else {
+            x.style.display = "block";
+          }
+        }
+    </script>
 </body>
 </html>
