@@ -1,0 +1,1277 @@
+Action
+
+{
+
+	{
+	"book_title" : "No Plan B",
+	"author" : "Lee, Child / Andrew, Child",
+	"isbn" : "9781984818546",
+	"price" : "$28.99",
+	"date" : "Oct 25, 2022"
+	},
+
+
+
+	{
+	"book_title" : "Outlaw",
+	"author" : "Charles G. West",
+	"isbn" : "9780593441497",
+	"price" : "$7.99",
+	"date" : "Nov 29, 2022"
+	},
+
+
+
+	{
+	"book_title" : "Pacific Rim: The Official Movie Novelization",
+	"author" : "Alex Irvine",
+	"isbn" : "9781781166789",
+	"price" : "$7.99",
+	"date" : "Jul 16, 2013"
+	},
+
+
+
+	{
+	"book_title" : "Pass of Fire",
+	"author" : "Taylor Anderson",
+	"isbn" : "9780399587559",
+	"price" : "$8.99",
+	"date" : "Apr 28, 2020"
+	},
+
+
+
+	{
+	"book_title" : "Racing the Light",
+	"author" : "Robert Crais",
+	"isbn" : "9780525535720",
+	"price" : "$29.00",
+	"date" : "Nov 01, 2022"
+	},
+
+
+
+	{
+	"book_title" : "Ready Player Two",
+	"author" : "Ernest Cline",
+	"isbn" : "9781524761349",
+	"price" : "$17.00",
+	"date" : "Nov 09, 2021"
+	},
+
+
+
+	{
+	"book_title" : "Resolute",
+	"author" : "Jack Campbell",
+	"isbn" : "9780593198995",
+	"price" : "$28.00",
+	"date" : "Jun 28, 2022"
+	},
+
+
+
+	{
+	"book_title" : "Sacred Hunger",
+	"author" : "Barry Unsworth",
+	"isbn" : "9780525434115",
+	"price" : "$18.95",
+	"date" : "Aug 22, 2017"
+	},
+
+
+
+	{
+	"book_title" : "W. E. B. Griffin The Devil's Weapons",
+	"author" : "Peter Kirsanow",
+	"isbn" : "9780593422281",
+	"price" : "$29.00",
+	"date" : "Dec 06, 2022"
+	},
+
+
+
+	{
+	"book_title" : "The Space Between Worlds",
+	"author" : "Micaiah Johnson",
+	"isbn" : "9780593156919",
+	"price" : "$17.00",
+	"date" : "Jun 01, 2021"
+	},
+
+
+
+	{
+	"book_title" : "The Vanished Birds",
+	"author" : "Simon Jimenez",
+	"isbn" : "9780593129005",
+	"price" : "$18.00",
+	"date" : "Jan 26, 2021"
+	},
+
+
+
+	{
+	"book_title" : "Tom Clancy Zero Hour",
+	"author" : "Don Bentley",
+	"isbn" : "9780593422724",
+	"price" : "$29.95",
+	"date" : "Jun 07, 2022"
+	},
+
+}
+
+
+
+
+
+Autobiography
+
+{
+
+	{
+	"book_title" : "All God's Dangers",
+	"author" : "Theodore Rosengarten",
+	"isbn" : "9780525562856",
+	"price" : "$17.00",
+	"date" : "Jul 31, 2018"
+	},
+
+
+
+	{
+	"book_title" : "American Prometheus",
+	"author" : "Kai, Bird / Martin, J. Sherwin",
+	"isbn" : "9780375726262",
+	"price" : "$23.00",
+	"date" : "Apr 11, 2006"
+	},
+
+
+
+	{
+	"book_title" : "And There Was Light",
+	"author" : "Jon Meacham",
+	"isbn" : "9780553393965",
+	"price" : "$40.00",
+	"date" : "Oct 18, 2022 "
+	},
+
+
+
+	{
+	"book_title" : "Cheever",
+	"author" : "Blake Bailey",
+	"isbn" : "9781400079681",
+	"price" : "$18.95",
+	"date" : "Mar 09, 2010"
+	},
+
+
+
+	
+	{
+	"book_title" : "Novelist as a Vocation",
+	"author" : "Haruki Murakami",
+	"isbn" : "9780451494641",
+	"price" : "$28.00",
+	"date" : "Nov 08, 2022"
+	},
+
+
+
+	{
+	"book_title" : "Scenes from My Life",
+	"author" : "Michael, K. Williams / Jon, Sternfeld",
+	"isbn" : "9780593240373",
+	"price" : "$28.99",
+	"date" : "Aug 23, 2022"
+	},
+
+
+
+	{
+	"book_title" : "Solito",
+	"author" : "Javier Zamora",
+	"isbn" : "9780593498064",
+	"price" : "$28.00",
+	"date" : "Sep 06, 2022"
+	},
+
+
+
+	{
+	"book_title" : "The Extraordinary Life of an Ordinary Man",
+	"author" : "Paul Newman",
+	"isbn" : "9780593534502",
+	"price" : "$32.00",
+	"date" : "Oct 18, 2022"
+	},
+
+
+
+	{
+	"book_title" : "The Last Girl",
+	"author" : "Nadia Murad",
+	"isbn" : "9781524760441",
+	"price" : "$17.00",
+	"date" : "Oct 16, 2018"
+	},
+
+
+
+	{
+	"book_title" : "The Outlier",
+	"author" : "Kai Bird",
+	"isbn" : "9780451495242",
+	"price" : "$20.00",
+	"date" : "Jun 14, 2022 "
+	},
+
+
+
+	{
+	"book_title" : "The Princess Diarist",
+	"author" : "Carrie Fisher",
+	"isbn" : "9780399185793",
+	"price" : "$18.00",
+	"date" : "Oct 24, 2017"
+	},
+
+
+
+
+	{
+	"book_title" : "The Rise of Theodore Roosevelt",
+	"author" : "Edmund Morris",
+	"isbn" : "9781400069651",
+	"price" : "$40.00",
+	"date" : "Nov 23, 2010"
+	},
+}
+
+
+
+
+
+Business
+
+{
+
+	{
+	"book_title" : "The 80/20 Principle",
+	"author" : "Richard Koch",
+	"isbn" : "9780385491747",
+	"price" : "$18.00",
+	"date" : "Oct 19, 1999"
+	},
+
+
+
+	{
+	"book_title" : "Elon Musk",
+	"author" : "Ashlee Vance",
+	"isbn" : "9780062301253",
+	"price" : "$17.99",
+	"date" : "Jan 24, 2017"
+	},
+
+
+
+	{
+	"book_title" : "Extreme Ownership",
+	"author" : "Jocko, Willink / Leif, Babin ",
+	"isbn" : "9781250183866",
+	"price" : "$29.99",
+	"date" : "Nov 21, 2017"
+	},
+
+
+
+	{
+	"book_title" : "Rich Dad Poor Dad",
+	"author" : "Robert T. Kiyosaki",
+	"isbn" : "9781612681122",
+	"price" : "$18.95",
+	"date" : "April 5, 2022"
+	},
+
+
+
+	{
+	"book_title" : "Self-Discipline",
+	"author" : "John Winters",
+	"isbn" : "9781795743730",
+	"price" : "$14.99",
+	"date" : "Feb 3, 2019"
+	},
+
+
+
+	{
+	"book_title" : "The 7 Habits of Highly Effective People",
+	"author" : "Stephen R. Covey",
+	"isbn" : "9781982137274",
+	"price" : "$18.99",
+	"date" : "May 19, 2020"
+	},
+
+
+
+	{
+	"book_title" : "Start with Why",
+	"author" : "Simon Sinek",
+	"isbn" : "9781591842804",
+	"price" : "$28.00",
+	"date" : "Oct 29, 2009"
+	},
+
+
+
+	{
+	"book_title" : "The Great Rat-Race Escape",
+	"author" : "MJ DeMarco",
+	"isbn" : "9781736792490",
+	"price" : "$22.95",
+	"date" : "Jun 22, 2021"
+	},
+
+
+
+	{
+	"book_title" : "The Psychology of Money",
+	"author" : "Morgan Housel",
+	"isbn" : "9780857197689",
+	"price" : "$18.99",
+	"date" : "Sep 8, 2020"
+	},
+
+
+
+	{
+	"book_title" : "The 10X Rule",
+	"author" : "Grant Cardone",
+	"isbn" : "9780470627600",
+	"price" : "$27.00",
+	"date" : "Apr 26, 2011"
+	},
+
+
+
+	{
+	"book_title" : "Traction",
+	"author" : "Gino Wickman",
+	"isbn" : "9781936661848",
+	"price" : "$29.95",
+	"date" : "April 3, 2012"
+	},
+
+
+
+	{
+	"book_title" : "Way of the Wolf",
+	"author" : "Jordan Belfort",
+	"isbn" : "9781501164309",
+	"price" : "$17.99",
+	"date" : "Sep 25, 2018"
+	},
+
+}
+
+
+
+
+
+Fantasy
+
+{
+
+	{
+	"book_title" : "Age of War",
+	"author" : "Michael J. Sullivan",
+	"isbn" : "9781101965399",
+	"price" : "$28.00",
+	"date" : "Jul 03, 2018"
+	},
+
+
+
+	{
+	"book_title" : "Barrow of Winter",
+	"author" : "H. M. Long",
+	"isbn" : "9781803360027",
+	"price" : "$16.95",
+	"date" : "Jan 17, 2023"
+	},
+
+
+
+	{
+	"book_title" : "Be the Serpent",
+	"author" : "Seanan McGuire",
+	"isbn" : "9780756416867",
+	"price" : "$28.00",
+	"date" : "Aug 30, 2022"
+	},
+
+
+
+	{
+	"book_title" : "Black Leopard, Red Wolf",
+	"author" : "Marlon James",
+	"isbn" : "9780735220188",
+	"price" : "$18.00",
+	"date" : "Feb 04, 2020"
+	},
+
+
+
+	{
+	"book_title" : "Circle of the Moon",
+	"author" : "Faith Hunter",
+	"isbn" : "9780399587948",
+	"price" : "$7.99",
+	"date" : "Feb 26, 2019"
+	},
+
+
+
+	{
+	"book_title" : "The Golden Enclaves",
+	"author" : "Naomi Novik",
+	"isbn" : "9780593158357",
+	"price" : "$28.00",
+	"date" : "Sep 27, 2022"
+	},
+
+
+
+	{
+	"book_title" : "The Invisible Library",
+	"author" : "Genevieve Cogman",
+	"isbn" : "9781101988640",
+	"price" : "$17.00",
+	"date" : "Jun 14, 2016"
+	},
+
+
+
+	{
+	"book_title" : "The Once and Future King",
+	"author" : "T. H. White",
+	"isbn" : "9780441020836",
+	"price" : "$26.00",
+	"date" : "Nov 01, 2011"
+	},
+
+
+
+	{
+	"book_title" : "The Red Garden",
+	"author" : "Alice Hoffman",
+	"isbn" : "9780307405975",
+	"price" : "$17.00",
+	"date" : "Aug 02, 2011"
+	},
+
+
+
+	{
+	"book_title" : "The Rise of the Dragon",
+	"author" : "George R. R. Martin, Elio M. García Jr. and Linda Antonsson",
+	"isbn" : "9781984859259",
+	"price" : "$60.00",
+	"date" : "Oct 25, 2022"
+	},
+
+
+
+	{
+	"book_title" : "The Skaar Invasion",
+	"author" : "Terry Brooks",
+	"isbn" : "9780553391534",
+	"price" : "$8.99",
+	"date" : "Feb 26, 2019"
+	},
+
+
+
+	{
+	"book_title" : "When Sorrows Come",
+	"author" : "Seanan McGuire",
+	"isbn" : "9780756415099",
+	"price" : "$27.00",
+	"date" : "Sep 14, 2021"
+	},
+
+}
+
+
+
+
+
+Horror
+
+{
+
+	{
+	"book_title" : "Briefing for a Descent Into Hell",
+	"author" : "Doris Lessing",
+	"isbn" : "9780307390615",
+	"price" : "$16.95",
+	"date" : "Jul 14, 2009"
+	},
+
+
+
+	{
+	"book_title" : "Dark Screams",
+	"author" : "Stephen King, Norman Prentiss and Joyce Carol Oates",
+	"isbn" : "9780399181931",
+	"price" : "$5.99",
+	"date" : "Apr 25, 2017"
+	},
+
+
+
+	{
+	"book_title" : "Ghost 19",
+	"author" : "Simone St. James",
+	"isbn" : "9780593547700",
+	"price" : "$2.99",
+	"date" : "Jan 03, 2023"
+	},
+
+
+
+	{
+	"book_title" : "Killers of a Certain Age",
+	"author" : "Deanna Raybourn",
+	"isbn" : "9780593200681",
+	"price" : "$27.00",
+	"date" : "Sep 06, 2022"
+	},
+
+
+
+	{
+	"book_title" : "Snakeskin Shamisen",
+	"author" : "Naomi Hirahara",
+	"isbn" : "9780385339612",
+	"price" : "$17.00",
+	"date" : "Apr 25, 2006"
+	},
+
+
+
+	{
+	"book_title" : "Spinning the Moon",
+	"author" : "Karen White",
+	"isbn" : "9781101989517",
+	"price" : "$17.00",
+	"date" : "Sep 06, 2016"
+	},
+
+
+
+	{
+	"book_title" : "Stranger Things: Suspicious Minds",
+	"author" : "Gwenda Bond",
+	"isbn" : "9781984819604",
+	"price" : "$18.00",
+	"date" : "Oct 08, 2019"
+	},
+
+
+
+	{
+	"book_title" : "Sucker Punch",
+	"author" : "Laurell K. Hamilton",
+	"isbn" : "9781984804440",
+	"price" : "$8.99",
+	"date" : "Jul 27, 2021"
+	},
+
+
+
+	{
+	"book_title" : "The Collector",
+	"author" : "Anne Mette Hancock",
+	"isbn" : "9781639101177",
+	"price" : "$28.99",
+	"date" : "Nov 08, 2022"
+	},
+
+
+
+	{
+	"book_title" : "The Final Girl Support Group",
+	"author" : "Grady Hendrix",
+	"isbn" : "9780593201244",
+	"price" : "$17.00",
+	"date" : "Jun 14, 2022"
+	},
+
+
+
+	{
+	"book_title" : "The House Across the Lake",
+	"author" : "Riley Sager",
+	"isbn" : "9780593183199",
+	"price" : "$27.00",
+	"date" : "Jun 21, 2022"
+	},
+
+
+
+	{
+	"book_title" : "The Nightmare Man",
+	"author" : "J. H. Markert",
+	"isbn" : "9781639101702",
+	"price" : "$27.99",
+	"date" : "Jan 10, 2023"
+	},
+
+}
+
+
+
+
+
+Languages
+
+{
+
+	{
+	"book_title" : "Basics of Biblical Greek Grammar",
+	"author" : "William D. Mounce",
+	"isbn" : "9780310537434",
+	"price" : "$59.99",
+	"date" : "Feb 5, 2019"
+	},
+
+
+
+	{
+	"book_title" : "Easy Spanish Phrase Book",
+	"author" : "Dr. Pablo Garcia Loaeza",
+	"isbn" : "9780486499055",
+	"price" : "$5.00",
+	"date" : "Mar 21, 2013"
+	},
+
+
+
+	{
+	"book_title" : "Merriam-Webster's French-English Dictionary",
+	"author" : "Merriam-Webster",
+	"isbn" : "9780877799177",
+	"price" : "$6.99",
+	"date" : "Jan 1, 2000"
+	},
+
+
+
+	{
+	"book_title" : "German Short Stories For Beginners",
+	"author" : "Lingo Mastery",
+	"isbn" : "9781797643267",
+	"price" : "$14.95",
+	"date" : "Feb 20, 2019"
+	},
+
+
+
+	{
+	"book_title" : "Conversational Hebrew Quick and Easy",
+	"author" : "Yatir Nitzany",
+	"isbn" : "9781466280144",
+	"price" : "$13.99",
+	"date" : "Jan 24, 2012"
+	},
+
+
+
+	{
+	"book_title" : "How to Read Egyptian Hieroglyphs",
+	"author" : "Mark Collier and Bill Manley",
+	"isbn" : "9780520239494",
+	"price" : "$33.95",
+	"date" : "May 5, 2003"
+	},
+
+
+
+	{
+	"book_title" : "Japanese For Dummies",
+	"author" : "Eriko Sato and Eriko Sato",
+	"isbn" : "978-1119475408",
+	"price" : "$24.99",
+	"date" : "Dec 27, 2018"
+	},
+
+
+
+	{
+	"book_title" : "LEARN HINDI WHILE HAVING FUN!",
+	"author" : "LINGUAS CLASSICS",
+	"isbn" : "9798363650390",
+	"price" : "$11.99",
+	"date" : "Nov 14, 2022"
+	},
+
+
+
+	{
+	"book_title" : "Let's Speak Korean",
+	"author" : "Fandom Media",
+	"isbn" : "9791188195466",
+	"price" : "$17.83",
+	"date" : "Sep 7, 2018"
+	},
+
+
+
+	{
+	"book_title" : "2000 Most Common Portuguese Words in Context",
+	"author" : "Lingo Mastery",
+	"isbn" : "9781090432599",
+	"price" : "$14.95",
+	"date" : "Mar 13, 2019"
+	},
+
+
+
+	{
+	"book_title" : "The New Penguin Russian Course",
+	"author" : "Nicholas J. Brown",
+	"isbn" : "978-0140120417",
+	"price" : "$22.00",
+	"date" : "Dec 1, 1996"
+	},
+
+
+
+	{
+	"book_title" : "The Power of Babel",
+	"author" : "John McWhorter",
+	"isbn" : "9780060520854",
+	"price" : "$17.99",
+	"date" : "Jan 1, 2003"
+	},
+
+}
+
+
+
+
+
+Manga
+
+{
+
+	{
+	"book_title" : "Akira",
+	"author" : "Katsuhiro Otomo",
+	"isbn" : "9781935429081",
+	"price" : "$29.99",
+	"date" : "Apr 12, 2011"
+	},
+
+
+
+	{
+	"book_title" : "Attack on Titan",
+	"author" : "Hajime Isayama",
+	"isbn" : "9781646510313",
+	"price" : "$10.99",
+	"date" : "Dec 22, 2020"
+	},
+
+
+
+	{
+	"book_title" : "Berserk",
+	"author" : "Kentaro Miura",
+	"isbn" : "9781593072520",
+	"price" : "$14.99",
+	"date" : "Feb 1, 2005"
+	},
+
+
+
+	{
+	"book_title" : "Bleach",
+	"author" : "Tite Kubo",
+	"isbn" : "9781421562377",
+	"price" : "$9.99",
+	"date" : "Feb 4, 2014"
+	},
+
+
+
+	{
+	"book_title" : "Dr. STONE",
+	"author" : "Riichiro Inagaki",
+	"isbn" : "9781974705061",
+	"price" : "$17.46",
+	"date" : "Jul 2, 2019"
+	},
+
+
+
+	{
+	"book_title" : "Dragon Ball Super",
+	"author" : "Akira Toriyama",
+	"isbn" : "9781974725175",
+	"price" : "$9.99",
+	"date" : "Jan 4, 2022"
+	},
+
+
+
+	{
+	"book_title" : "Fullmetal Alchemist",
+	"author" : "Hiromu Arakawa",
+	"isbn" : "9781421539843",
+	"price" : "$9.99",
+	"date" : "Dec 20, 2011"
+	},
+
+
+
+	{
+	"book_title" : "JoJos Bizarre Adventure",
+	"author" : "Hirohiko Araki",
+	"isbn" : "9781421590653",
+	"price" : "$19.99",
+	"date" : "Nov 1, 2016"
+	},
+
+
+
+	{
+	"book_title" : "Jujutsu Kaisen",
+	"author" : "Gege Akutami",
+	"isbn" : "9781974714803",
+	"price" : "$9.99",
+	"date" : "Jun 2, 2020"
+	},
+
+
+
+	{
+	"book_title" : "Naruto",
+	"author" : "Masashi Kishimoto",
+	"isbn" : "9781421528427",
+	"price" : "$9.99",
+	"date" : "Mar 3, 2009"
+	},
+
+
+
+	{
+	"book_title" : "One Piece",
+	"author" : "Eiichiro Oda",
+	"isbn" : "9781974732173",
+	"price" : "$9.99",
+	"date" : "Aug 2, 2022"
+	},
+
+
+
+	{
+	"book_title" : "One-Punch Man",
+	"author" : "Yusuke Murata",
+	"isbn" : "9781974725120",
+	"price" : "$9.99",
+	"date" : "Oct 5, 2021"
+	},
+
+}
+
+
+
+
+
+Poetry
+
+{
+
+	{
+	"book_title" : "Balladz",
+	"author" : "Sharon Olds",
+	"isbn" : "9780525656951",
+	"price" : "$30.00",
+	"date" : "Oct 04, 2022"
+	},
+
+
+
+	{
+	"book_title" : "Blizzard of One",
+	"author" : "Mark Strand",
+	"isbn" : "9780375701375",
+	"price" : "$16.95",
+	"date" : "Feb 08, 2000"
+	},
+
+
+
+	{
+	"book_title" : "Blue Horses",
+	"author" : "Mary Oliver",
+	"isbn" : "9780143127819",
+	"price" : "$16.00",
+	"date" : "Oct 11, 2016"
+	},
+
+
+
+	{
+	"book_title" : "Call Us What We Carry",
+	"author" : "Amanda Gorman",
+	"isbn" : "9780593465066",
+	"price" : "$24.99",
+	"date" : "Dec 07, 2021"
+	},
+
+
+
+	{
+	"book_title" : "Chasers of the Light",
+	"author" : "Tyler Knott Gregson",
+	"isbn" : "9780399169731",
+	"price" : "$18.00",
+	"date" : "Sep 02, 2014"
+	},
+
+
+
+	{
+	"book_title" : "Dog Songs",
+	"author" : "Mary Oliver",
+	"isbn" : "9780143125839",
+	"price" : "$16.00",
+	"date" : "Sep 29, 2015"
+	},
+
+
+
+	{
+	"book_title" : "Musical Tables",
+	"author" : "Billy Collins",
+	"isbn" : "9780399589782",
+	"price" : "$26.00",
+	"date" : "Nov 15, 2022"
+	},
+
+
+
+	{
+	"book_title" : "Scars and Stars",
+	"author" : "Jesse Thistle",
+	"isbn" : "9780771003509",
+	"price" : "$20.00",
+	"date" : "Oct 18, 2022"
+	},
+
+
+
+	{
+	"book_title" : "The Bird Catcher",
+	"author" : "Marie Ponsot",
+	"isbn" : "9780307554703",
+	"price" : "$6.99",
+	"date" : "Oct 30, 2013"
+	},
+
+
+
+	{
+	"book_title" : "The Iliad",
+	"author" : "Homer",
+	"isbn" : "9780140445923",
+	"price" : "$18.00",
+	"date" : "Jul 01, 1991"
+	},
+
+
+
+	{
+	"book_title" : "William Shakespeare's The Jedi Doth Return",
+	"author" : "Ian Doescher",
+	"isbn" : "9781594747137",
+	"price" : "$14.95",
+	"date" : "Jul 01, 2014"
+	},
+
+
+
+	{
+	"book_title" : "Wild Gratitude",
+	"author" : "Edward Hirsch",
+	"isbn" : "9780375710124",
+	"price" : "$18.95",
+	"date" : "Mar 18, 2003"
+	},
+
+}
+
+
+
+
+
+Religion
+
+{
+
+	{
+	"book_title" : "The Believer's Authority",
+	"author" : "Kenneth E. Hagin",
+	"isbn" : "9780892764068",
+	"price" : "$8.95",
+	"date" : "Dec 1, 1985"
+	},
+
+
+
+	{
+	"book_title" : "A History of God",
+	"author" : "Karen Armstrong",
+	"isbn" : "9780345384560",
+	"price" : "$18.99",
+	"date" : "Aug 09, 1994"
+	},
+
+
+
+	{
+	"book_title" : "A Rhythm of Prayer",
+	"author" : "Sarah Bessey",
+	"isbn" : "9780593137215",
+	"price" : "$20.00",
+	"date" : "Feb 09, 2021"
+	},
+
+
+
+	{
+	"book_title" : "Hope for Each Day Morning and Evening Devotions",
+	"author" : "Billy Graham",
+	"isbn" : "9781404189706",
+	"price" : "$24.99",
+	"date" : "Jun 11, 2012"
+	},
+
+
+
+	{
+	"book_title" : "Islam: A Short History",
+	"author" : "Karen Armstrong",
+	"isbn" : "9780812966183",
+	"price" : "$18.00",
+	"date" : "Aug 6, 2002"
+	},
+
+
+
+	{
+	"book_title" : "The Holy Bible King James Version",
+	"author" : "Hendrickson Publishers",
+	"isbn" : "9781565633254",
+	"price" : "$4.95",
+	"date" : "Jan 1, 2004"
+	},
+
+
+
+	{
+	"book_title" : "Live No Lies",
+	"author" : "John Mark Comer",
+	"isbn" : "9780525653127",
+	"price" : "$25.00",
+	"date" : "Sep 28, 2021"
+	},
+
+
+
+	{
+	"book_title" : "Man's Search for Meaning",
+	"author" : "Viktor E. Frankl",
+	"isbn" : "9780807000007",
+	"price" : "$27.95",
+	"date" : "Feb 18, 2014"
+	},
+
+
+
+	{
+	"book_title" : "No Cure for Being Human",
+	"author" : "Kate Bowler",
+	"isbn" : "9780593230794",
+	"price" : "$18.00",
+	"date" : "Oct 04, 2022"
+	},
+
+
+
+	{
+	"book_title" : "The Believer's Guide to Spiritual Warfare",
+	"author" : "Tom White and Bruce Wilkinson",
+	"isbn" : "9780800797553",
+	"price" : "$15.99",
+	"date" : "Apr 27, 2011"
+	},
+
+
+
+	{
+	"book_title" : "The Untethered Soul",
+	"author" : "Michael A. Singer",
+	"isbn" : "9781572245372",
+	"price" : "$18.95",
+	"date" : "Oct 3, 2007"
+	},
+
+
+
+	{
+	"book_title" : "Winning the War in Your Mind",
+	"author" : "Craig Groeschel",
+	"isbn" : "9780310362722",
+	"price" : "$26.99",
+	"date" : "Feb 16, 2021"
+	},
+
+}
+
+
+
+
+
+Romance
+
+{
+
+	{
+	"book_title" : "The Best Is Yet to Come",
+	"author" : "Debbie Macomber",
+	"isbn" : "9781984818843",
+	"price" : "$28.00",
+	"date" : "Jul 12, 2022"
+	},
+
+
+
+	{
+	"book_title" : "Coming Home",
+	"author" : "Shelley Shepard Gray",
+	"isbn" : "9780593438084",
+	"price" : "$8.99",
+	"date" : "Nov 29, 2022"
+	},
+
+
+
+	{
+	"book_title" : "Jane and the Year Without a Summer",
+	"author" : "Stephanie Barron",
+	"isbn" : "9781641294096",
+	"price" : "$17.95",
+	"date" : "Jan 17, 2023"
+	},
+
+
+
+	{
+	"book_title" : "Probably Ruby",
+	"author" : "Lisa Bird-Wilson",
+	"isbn" : "9780593448694",
+	"price" : "$17.00",
+	"date" : "Jan 03, 2023"
+	},
+
+
+
+	{
+	"book_title" : "Remember Love",
+	"author" : "Mary Balogh",
+	"isbn" : "9780593438121",
+	"price" : "$27.00",
+	"date" : "Jul 12, 2022"
+	},
+
+
+
+	{
+	"book_title" : "Someone Perfect",
+	"author" : "Mary Balogh",
+	"isbn" : "9780593335291",
+	"price" : "$27.00",
+	"date" : "Nov 30, 2021"
+	},
+
+
+
+	{
+	"book_title" : "Soul Taken",
+	"author" : "Patricia Briggs",
+	"isbn" : "9780440001614",
+	"price" : "$28.00",
+	"date" : "Aug 23, 2022"
+	},
+
+
+
+	{
+	"book_title" : "That Summer in Berlin",
+	"author" : "Lecia Cornwall",
+	"isbn" : "9780593197943",
+	"price" : "$17.00",
+	"date" : "Oct 11, 2022"
+	},
+
+
+
+	{
+	"book_title" : "The Confusion of Languages",
+	"author" : "Siobhan Fallon",
+	"isbn" : "9780399576416",
+	"price" : "$16.00",
+	"date" : "Jun 05, 2018"
+	},
+
+
+
+	{
+	"book_title" : "The Great Gatsby",
+	"author" : "F. Scott Fitzgerald",
+	"isbn" : "9798745274824",
+	"price" : "$5.97",
+	"date" : "Apr 27, 2021"
+	},
+
+
+
+	{
+	"book_title" : "The High Notes",
+	"author" : "Danielle Steel",
+	"isbn" : "9781984821744",
+	"price" : "$28.99",
+	"date" : "Oct 11, 2022"
+	},
+
+
+
+	{
+	"book_title" : "The Love of My Life",
+	"author" : "Rosie Walsh",
+	"isbn" : "9780593297018",
+	"price" : "$18.00",
+	"date" : "Jan 17, 2023"
+	},
+
+}
+
