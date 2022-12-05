@@ -15,22 +15,16 @@
 </head>
 <body>
     <!-- navbar -->
-    <nav class="navbar navbar-expand-lg bg-light text-dark justify-content-between">
+    <nav class="navbar navbar-expand-lg bg-light text-dark justify-content-between d-flex">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#"><img src="images/cosmiclogo.svg" alt="Book Store Logo" width="200" height = "200"></a>
+          <a class="navbar-brand justify-content-start" href="#"><img src="images/cosmiclogo.svg" alt="Book Store Logo" width="200" height = "200"></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
             <ul class="navbar-nav">
               <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="#">Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Features</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Pricing</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -48,6 +42,12 @@
                   <li><a class="dropdown-item" href="#">Religion</a></li>
                   <li><a class="dropdown-item" href="#">Romance</a></li>
                 </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">About</a>
+              </li>
+              <li class="nav-item cart">
+                <a href="#"><i class="nav-link bi bi-bag">&nbsp;Check Out</i></a>
               </li>
             </ul>
           </div>
@@ -82,13 +82,19 @@
         </a>
       </div>
         <!-- making the card for books -->
+        <h1 class="title">Best Sellers</h1>
         <div class="container" id="container2">
             <div class="card" style="width: 1fr;">
                 <img src="../Bookstore-Shopping-Cart/book_images/action/no_plan_b_bs.jpg" class="card-img-top" alt="No Plan B">
                 <div class="card-body">
                 <h5 class="card-title">No Plan B</h5>
                 <p class="card-text">In Gerrardsville, Colorado, a woman dies under the wheels of a moving bus. The death is ruled a suicide. But Jack Reacher saw what really happened: A man in a gray hoodie and jeans, moving stealthily, pushed the victim to her demise—before swiftly grabbing the dead woman’s purse and strolling away.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <div class="d-flex justify-content-between align-content-center">
+                  <p class="price btn">$28.99</p>
+                  <a href="#" class="btn btn-primary btn-lg">View Book</a>
+                </div>
+                  <br>
+                  <a href="#" class="btn btn-primary btn-lg d-flex justify-content-center" id="cartbtn"><i class="bi bi-cart-fill">&nbsp;</i>Add To Cart</a>
                 </div>
             </div>
             <div class="card" style="width: 1fr;">
@@ -96,7 +102,12 @@
                 <div class="card-body">
                 <h5 class="card-title">All Gods Dangers</h5>
                 <p class="card-text">Nate Shaw’s father was born under slavery. Nate Shaw was born into a bondage that was only a little gentler. At the age of nine, he was picking cotton for thirty-five cents an hour. At the age of forty-seven, he faced down a crowd of white deputies who had come to confiscate a neighbor’s crop.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <div class="d-flex justify-content-between align-content-center">
+                  <p class="price btn">$17.00</p>
+                  <a href="#" class="btn btn-primary btn-lg">View Book</a>
+                </div>
+                  <br>
+                  <a href="#" class="btn btn-primary btn-lg d-flex justify-content-center" id="cartbtn"><i class="bi bi-cart-fill">&nbsp;</i>Add To Cart</a>
                 </div>
             </div>
             <div class="card" style="width: 1fr;">
@@ -104,15 +115,25 @@
                 <div class="card-body">
                 <h5 class="card-title">American Prometheus</h5>
                 <p class="card-text">In this magisterial, acclaimed biography twenty-five years in the making, Kai Bird and Martin Sherwin capture Oppenheimer’s life and times, from his early career to his central role in the Cold War. This is biography and history at its finest, riveting and deeply informative.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <div class="d-flex justify-content-between align-content-center">
+                  <p class="price btn">$23.00</p>
+                  <a href="#" class="btn btn-primary btn-lg">View Book</a>
+                </div>
+                  <br>
+                  <a href="#" class="btn btn-primary btn-lg d-flex justify-content-center" id="cartbtn"><i class="bi bi-cart-fill">&nbsp;</i>Add To Cart</a>
                 </div>
             </div>
             <div class="card" style="width: 1fr;">
                 <img src="../Bookstore-Shopping-Cart/book_images/business/eighty_twenty_rule.jpg" class="card-img-top" alt="No Plan B">
                 <div class="card-body">
-                <h5 class="card-title">Eighty Twenty Rule</h5>
+                <h5 class="card-title">The 80/20 principle</h5>
                 <p class="card-text">Be more effective with less effort by learning how to identify and leverage the 80/20 principle: that 80 percent of all our results in business and in life stem from a ... The 80/20 principle is one of the great secrets of highly effective people and organizations.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <div class="d-flex justify-content-between align-content-center">
+                  <p class="price btn">$18.00</p>
+                  <a href="#" class="btn btn-primary btn-lg">View Book</a>
+                </div>
+                  <br>
+                  <a href="#" class="btn btn-primary btn-lg d-flex justify-content-center" id="cartbtn"><i class="bi bi-cart-fill">&nbsp;</i>Add To Cart</a>
                 </div>
             </div>
             <div class="card" style="width: 1fr;">
@@ -120,7 +141,12 @@
                 <div class="card-body">
                 <h5 class="card-title">Barrow of Winter</h5>
                 <p class="card-text">Thray is the Last Daughter of Winter, haunted by the legacy of her blood. When offered a chance to visit the northern land of Duamel, where her father once ruled, she can’t refuse – even if it means lying to the priesthood she serves and the man she loves.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <div class="d-flex justify-content-between align-content-center">
+                  <p class="price btn">$16.95</p>
+                  <a href="#" class="btn btn-primary btn-lg">View Book</a>
+                </div>
+                  <br>
+                  <a href="#" class="btn btn-primary btn-lg d-flex justify-content-center" id="cartbtn"><i class="bi bi-cart-fill">&nbsp;</i>Add To Cart</a>
                 </div>
             </div>
             <div class="card" style="width: 1fr;">
@@ -128,7 +154,12 @@
                 <div class="card-body">
                 <h5 class="card-title">Briefing For a Descent into Hell</h5>
                 <p class="card-text">n this ambitious novel of madness and release, shortlisted for the Booker Prize, Doris Lessing imagines the fantastical "inner-space" life of an amnesiac.Charles Watkins, a Professor of Classics at Cambridge University, has suffered a breakdown ...</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <div class="d-flex justify-content-between align-content-center">
+                  <p class="price btn">$16.95</p>
+                  <a href="#" class="btn btn-primary btn-lg">View Book</a>
+                </div>
+                  <br>
+                  <a href="#" class="btn btn-primary btn-lg d-flex justify-content-center" id="cartbtn"><i class="bi bi-cart-fill">&nbsp;</i>Add To Cart</a>
                 </div>
             </div>
             <div class="card" style="width: 1fr;">
@@ -136,7 +167,12 @@
                 <div class="card-body">
                 <h5 class="card-title">Balladz</h5>
                 <p class="card-text">“At the time of have-not, I look at myself in this mirror,” writes Olds in this self-scouring, exhilarating volume, which opens with a section of quarantine poems, and at its center boasts what she calls Amherst Balladz </p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <div class="d-flex justify-content-between align-content-center">
+                  <p class="price btn">$30.00</p>
+                  <a href="#" class="btn btn-primary btn-lg">View Book</a>
+                </div>
+                  <br>
+                  <a href="#" class="btn btn-primary btn-lg d-flex justify-content-center" id="cartbtn"><i class="bi bi-cart-fill">&nbsp;</i>Add To Cart</a>
                 </div>
             </div>
             <div class="card" style="width: 1fr;">
@@ -144,7 +180,12 @@
                 <div class="card-body">
                 <h5 class="card-title">Blizzard of One</h5>
                 <p class="card-text">Strand’s poems occupy a place that exists between abstraction and the sensuous particulars of experience. It is a place created by a voice that moves with unerring ease between the commonplace and the sublime.  The poems are filled with "the weather of leavetaking," but they are also unexpectedly funny.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <div class="d-flex justify-content-between align-content-center">
+                  <p class="price btn">$16.95</p>
+                  <a href="#" class="btn btn-primary btn-lg">View Book</a>
+                </div>
+                  <br>
+                  <a href="#" class="btn btn-primary btn-lg d-flex justify-content-center" id="cartbtn"><i class="bi bi-cart-fill">&nbsp;</i>Add To Cart</a>
                 </div>
             </div>
             <div class="card" style="width: 1fr;">
@@ -152,14 +193,19 @@
                 <div class="card-body">
                 <h5 class="card-title">A History of God</h5>
                 <p class="card-text">Why does God exist? How have the three dominant monotheistic religions—Judaism, Christianity, and Islam—shaped and altered the conception of God? How have these religions influenced each other? In this stunningly intelligent book Karen Armstrong, one of Britain’s </p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <div class="d-flex justify-content-between align-content-center">
+                  <p class="price btn">$18.99</p>
+                  <a href="#" class="btn btn-primary btn-lg">View Book</a>
+                </div>
+                  <br>
+                  <a href="#" class="btn btn-primary btn-lg d-flex justify-content-center" id="cartbtn"><i class="bi bi-cart-fill">&nbsp;</i>Add To Cart</a>
                 </div>
             </div>
         <!--  -->
     </main>
     <footer>
-        <div class="footnav">
-
+        <div class="footnav bg-light">
+          <p>Copyright © 2022 Cosmic Book Store Incorporated. All rights reserved.</p>
         </div>
     </footer>
     <script>
